@@ -1,3 +1,5 @@
 # Bug Bridge v1.0
 
-Available for download at FAB (previously Unreal Market Place)
+- Download: FAB (previously Unreal Market Place)
+
+- For more information please follow the [Wiki](https://github.com/alphawidgets/bugbridge/wiki)
