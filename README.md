@@ -1,4 +1,4 @@
-# General Information
+# ℹ️ General Information
 
 ➜ [Download plugin](https://github.com/alphawidgets/bugbridge/wiki) - TODO  
 ➜ Follow the [Wiki](https://github.com/alphawidgets/bugbridge/wiki) for more information  
